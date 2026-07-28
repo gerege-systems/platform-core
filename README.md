@@ -1,3 +1,19 @@
+> ## ⚠️ Энэ репо АРХИВЛАГДСАН
+>
+> `platform-core` нь хоёр цөм болж салсан:
+>
+> | Шинэ цөм | Хэн хэрэглэдэг |
+> |---|---|
+> | [`public-gerege-core`](https://github.com/gerege-systems/public-gerege-core) | gov урсгал — `template-dgov` · `ring` · `hurdan` · `sso-dgov` · `developer-dgov` · `sso-gerege` |
+> | [`private-gerege-core`](https://github.com/gerege-systems/private-gerege-core) | gerege урсгал — public цөмөөс `go.mod`-оор удамшиж, дээр нь Gerege-ийн нэмэлт |
+>
+> Сүүлчийн хувилбар: `v0.4.1`. Түүнээс хойших ажил `public-gerege-core`-д
+> үргэлжилнэ (`v1.0.0` нь `v0.4.1`-ийн шууд залгамжлагч).
+>
+> Аль ч репо энэ модулиас хамаарахаа больсон.
+
+---
+
 # platform-core
 
 > Gerege / dgov платформуудын **дундын суурь Go модуль** —
